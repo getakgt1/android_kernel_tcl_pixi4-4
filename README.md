@@ -3,6 +3,10 @@
 
 # Build
  
-            ./build.sh
+		$ ./buildkernel.sh
             
             
+# Packing your new boot.img 
+
+		$ ./packboot.sh
+

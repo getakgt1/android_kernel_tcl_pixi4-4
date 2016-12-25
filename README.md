@@ -2,6 +2,7 @@
 
 
 # Build
-
-      $ mkdir kernel/tools/tools
-      $ bash 4034d.sh
+ 
+            ./build.sh
+            
+            

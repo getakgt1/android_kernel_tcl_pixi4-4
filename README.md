@@ -1,7 +1,9 @@
 # android_kernel_tcl_pixi4-4
 
+Edit
 
 # Build
-
-      $ mkdir kernel/tools/tools
-      $ bash 4034d.sh
+ 
+            ./build.sh
+            
+            
